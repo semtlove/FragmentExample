@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\GIT\\AndroidStudio\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\threefragment.xml",
+        "source": "D:\\GIT\\AndroidStudio\\FragmentExample\\app\\src\\main\\res\\layout\\threefragment.xml"
+    },
+    {
+        "merged": "D:\\GIT\\AndroidStudio\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\GIT\\AndroidStudio\\FragmentExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GIT\\AndroidStudio\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\twofragment.xml",
+        "source": "D:\\GIT\\AndroidStudio\\FragmentExample\\app\\src\\main\\res\\layout\\twofragment.xml"
+    },
+    {
+        "merged": "D:\\GIT\\AndroidStudio\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onefragment.xml",
+        "source": "D:\\GIT\\AndroidStudio\\FragmentExample\\app\\src\\main\\res\\layout\\onefragment.xml"
+    }
+]

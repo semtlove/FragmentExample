@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GIT\AndroidStudio\FragmentExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7e66be471128af3409454884e794bfdbb9c2dbcf">
+        <dex dex="D:\GIT\AndroidStudio\FragmentExample\app\build\intermediates\pre-dexed\debug\instant-run_909a46b7906918a31795f4489bddea12be636511.jar" />
+    </item>
+    <item
+        jar="C:\Users\semtlove@gmail.com\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\GIT\AndroidStudio\FragmentExample\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_eb5f74b0a6b56a8585746722880076b91f1c3aa1.jar" />
+    </item>
+    <item
+        jar="D:\GIT\AndroidStudio\FragmentExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c7904f7c490b4034b1215e6d1a5a906f12e0db8">
+        <dex dex="D:\GIT\AndroidStudio\FragmentExample\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1fa4ae14f94dfd171d962feaa10fa8ff21e5a92e.jar" />
+    </item>
+
+</items>
